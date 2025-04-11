@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: rgb(253, 60, 1);
+}
+
+header {
+    background-color: black;
+    color: rgb(253, 60, 1);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    padding: 40px;
+    background-color: black;
+    margin: 20px;
+}
+
+.localizacao {
+    color: rgb(253, 60, 1);
+    display: flex;
+    justify-content: center;
+}
+
+.mapa {
+    display: flex;
+    justify-content: center;
+}    
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.videos {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
